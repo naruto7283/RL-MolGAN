@@ -1,6 +1,7 @@
 # SpotGAN
 
 A PyTorch implementation of RL-MolGAN: A Reinforcement Learning-Driven Transformer GAN for Molecular Generation.
+The code will be made available soon.
 
 
 ## Installation
